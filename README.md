@@ -10,7 +10,7 @@ This Example shows how to use Redis Cache with DotNetCore API. Here is how to ru
 
       `"RedisConnectionString" :  "localhost:6300"`     
    
-      #### `[Please note] You can run Redis in any of the way: In your local machine, inside Docker container or you can use Azure Redis cache instance as well and update the             path accordingly.`
+      #### `[Please note] You can run Redis server in any of the way: In your local machine, inside Docker container or you can use Azure Redis cache instance as well.`
    
  4. Example uses one API Endpoint to get user data. While fecthing data if data exists in Cache it feches data from Cache else fecthes from Database.
          
