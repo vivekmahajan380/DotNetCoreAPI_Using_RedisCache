@@ -1,0 +1,5 @@
+C:\Users\vivekm\source\repos\DotNetCoreAPI_RedisCache_Example\obj\Debug\netcoreapp3.1\DotNetCoreAPI_RedisCache_Example.csprojAssemblyReference.cache
+C:\Users\vivekm\source\repos\DotNetCoreAPI_RedisCache_Example\obj\Debug\netcoreapp3.1\DotNetCoreAPI_RedisCache_Example.AssemblyInfoInputs.cache
+C:\Users\vivekm\source\repos\DotNetCoreAPI_RedisCache_Example\obj\Debug\netcoreapp3.1\DotNetCoreAPI_RedisCache_Example.AssemblyInfo.cs
+C:\Users\vivekm\source\repos\DotNetCoreAPI_RedisCache_Example\obj\Debug\netcoreapp3.1\DotNetCoreAPI_RedisCache_Example.csproj.CoreCompileInputs.cache
+C:\Users\vivekm\source\repos\DotNetCoreAPI_RedisCache_Example\obj\Debug\netcoreapp3.1\DotNetCoreAPI_RedisCache_Example.MvcApplicationPartsAssemblyInfo.cache
