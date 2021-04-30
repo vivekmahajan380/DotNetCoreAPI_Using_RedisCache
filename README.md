@@ -2,7 +2,7 @@
 
 This Example shows how to use Redis Cache with DotNetCore API. Here is how to run this project:
 
-1. Download the Prject.
+1. Download the Project.
 
 2. Make sure that Redis server is running.
 
@@ -10,8 +10,8 @@ This Example shows how to use Redis Cache with DotNetCore API. Here is how to ru
 
       `"RedisConnectionString" :  "localhost:6300"`     
    
-      [Please note you can run Redis in any of the way, In your local machine, inside Docker or you can use Azure Redis cache instance as well and update the path    
-      accordingly.]
+      `[Please note you can run Redis in any of the way, In your local machine, inside Docker or you can use Azure Redis cache instance as well and update the path    
+      accordingly.]`
    
  4. Example uses one API Endpoint to get user data. While fecthing data if data exists in Cache it feches data from Cache else fecthes from Database.
          
