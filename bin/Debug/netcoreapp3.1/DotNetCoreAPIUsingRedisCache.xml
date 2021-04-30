@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DotNetCoreAPIUsingRedisCache</name>
+    </assembly>
+    <members>
+        <member name="M:DotNetCoreAPIUsingRedisCache.Controllers.UserController.GetUser(System.String)">
+            <param name="key">Choose value from 1 - 4.</param>
+        </member>
+    </members>
+</doc>
