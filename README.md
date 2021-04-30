@@ -10,8 +10,7 @@ This Example shows how to use Redis Cache with DotNetCore API. Here is how to ru
 
       `"RedisConnectionString" :  "localhost:6300"`     
    
-      `[Please note you can run Redis in any of the way, In your local machine, inside Docker or you can use Azure Redis cache instance as well and update the path    
-      accordingly.]`
+      #### `[Please note] You can run Redis in any of the way: In your local machine, inside Docker container or you can use Azure Redis cache instance as well and update the             path accordingly.`
    
  4. Example uses one API Endpoint to get user data. While fecthing data if data exists in Cache it feches data from Cache else fecthes from Database.
          
@@ -19,7 +18,7 @@ This Example shows how to use Redis Cache with DotNetCore API. Here is how to ru
       
  6. Any data entry in cache expires after 60 seconds.
      
- 7. While getting data from the first time api takes 5 seconds and then consecutive calls withing the 60 seconds it would take fraction of seconds.
+ 7. While getting data for the first time from the api takes 5 seconds and then consecutive calls withing the 60 seconds would take fraction of seconds.
 
  8. API Endpoint to get user data
    
