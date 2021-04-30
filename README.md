@@ -31,4 +31,12 @@ This Example shows how to use Redis Cache with DotNetCore API. Here is how to ru
   10. API Response when data is fecthed from Cache 
       
       ![image](https://user-images.githubusercontent.com/46951524/116662738-c4bea280-a9b3-11eb-80c0-5e7e8c52acdc.png)
+      
+  
+  ### [Note] 
+  If you have Docker Desktop already installed you can use below two commands to make Redis server running
+  
+      `docker pull redis`
+      `docker run -p 6300:6379 --name localredis -d redis`
+
      
